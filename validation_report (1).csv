@@ -1,8 +1,0 @@
-check_name,observed_value,expected_value,passed
-survey_row_count,300,300,1
-policy_document_count,112,112,1
-policy_clause_count_positive,1,1,1
-group_manager_count,120,120,1
-group_staff_count,150,150,1
-group_provider_count,30,30,1
-master_row_count,300,300,1
